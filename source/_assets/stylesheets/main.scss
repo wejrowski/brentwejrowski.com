@@ -1,0 +1,114 @@
+@import 'normalize.scss';
+//http://blog.brentwejrowski.com/wp-content/themes/brentwejrowski/style.css
+
+// $primary_bg: #182227;
+$primary_bg: #eee;
+$primary_color: #000;
+$light_color: #aaa;
+// $link_color: #F9B30F;
+$link_color: #dc9a00;
+
+body {
+  background: $primary_bg;
+  color: #444;
+  font-family: "Lucida Grande", "Lucida Sans", Helvetica, Arial, sans-serif;
+}
+
+a, a:visited, #disqus_thread a, #disqus_thread a:visited, #disqus_thread a:link{
+  color: $link_color;
+  text-decoration:none;
+  padding: 1px 4px 1px 4px;
+  background: none;
+  margin-bottom:5px;
+  margin-left:-4px;
+  margin-right:-4px;
+}
+a:hover img, #disqus_thread a:hover img{
+  background:none;
+}
+a:hover, #disqus_thread a:hover{
+  background: $link_color;
+  color: $primary_bg;
+}
+
+small{
+  font-size: smaller;
+}
+
+/**************************
+* GENERAL
+**************************/
+#main{
+  min-width: 500px;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 25px;
+}
+
+nav{
+  min-height: 2em;
+  font-size: smaller;
+}
+a.subscribe {
+  float: right;
+}
+
+div.quote, blockquote{
+  margin-left:25px;
+  margin-top: 10px;
+  margin-bottom:10px;
+  font-family: Georgia, "Lucida Grande", "Lucida Sans", Helvetica, Arial, serif;
+  font-style:italic;
+  // font-size: 110%;
+}
+
+article img {
+  box-shadow: 0px 1px 6px #333;
+}
+img.alignleft {
+  float: left;
+  margin: 0 15px 5px 0;
+}
+img.alignright {
+  float: right;
+  margin: 0 0 5px 15px;
+}
+
+
+/**************************
+* INDEX
+**************************/
+
+#posts {
+}
+.post {
+  margin: 10px 0px;
+  min-height: 1.5em;
+}
+.post a{
+  display: block;
+  margin-right: 9em;
+}
+.post small{
+  float: right;
+  text-transform: uppercase;
+  color: $light_color;
+}
+
+
+/**************************
+* POST
+**************************/
+
+article, nav {
+}
+header .entry-title {
+  margin-bottom: .25em;
+}
+header .meta {
+  font-size: smaller;
+  color: $light_color;
+  padding-top: 0px;
+  margin-top: 0px;
+  text-transform: uppercase;
+}

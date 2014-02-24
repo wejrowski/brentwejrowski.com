@@ -1,0 +1,1 @@
+require 'Jekyll-assets'

@@ -1,3 +1,7 @@
-name: Your New Jekyll Site
+url: http://brentwejrowski.com
+name: brentwejrowski.com
+author: Brent Wejrowski
 markdown: redcarpet
 pygments: true
+
+source: source
