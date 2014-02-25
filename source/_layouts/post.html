@@ -7,20 +7,17 @@ layout: default
   <a href="/">&laquo; index</a>
 </nav>
 <div>
-<article role="article">
-  {% if page.title %}
-  <header>
-    <h1 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
-    {% if page.date %}<p class="meta">{{ page.date | date: "%-d %B %Y" }}</p>{% endif %}
-  </header>
-  {% endif %}
-  {{ content }}
-</article>
+  <article role="article">
+    {% if page.title %}
+    <header>
+      <h1 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+      {% if page.date %}<p class="meta">{{ page.date | date: "%-d %B %Y" }}</p>{% endif %}
+    </header>
+    {% endif %}
+    {{ content }}
+  </article>
 
-{% if site.disqus_short_name and page.comments == true %}
   <section>
-    <h1>Comments</h1>
-    <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+    {% include disqus.html %}
   </section>
-{% endif %}
 </div>
