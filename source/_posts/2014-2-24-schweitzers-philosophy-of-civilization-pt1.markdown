@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Schweitzer's Philosophy of Civilization: Pt 1, a bit about Schweitzer"
-date:   2014-02-25 11:23:00
+date:   2014-02-24 11:23:00
 categories: 
 ---
 
