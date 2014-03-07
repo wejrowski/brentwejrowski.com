@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Schweitzer's Philosophy of Civilization: Pt 1, a bit about Schweitzer"
+title:  "Philosophy of Civilization: Pt 1, Albert Schweitzer"
 date:   2014-02-24 11:23:00
-categories: 
+tags:
+  - Albert Schweitzer
+  - Philosophy
 ---
 
 <img alt="Albert Schweitzer" title="Albert Schweitzer (1875-1965)" src="{{ 'Albert_Schweitzer_1952.jpg' | asset_path }}" class="alignleft" />
