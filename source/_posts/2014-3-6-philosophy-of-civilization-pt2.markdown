@@ -7,7 +7,7 @@ tags:
   - Philosophy
 ---
 
-<img alt="Albert Schweitzer" title="Albert Schweitzer's Philosophy of Civilization (1924)" src="{{ 'albert_schweitzer_philosophy_of_civilization.jpg' | asset_path }}" class="alignleft" />
+<img alt="Albert Schweitzer" title="Albert Schweitzer's Philosophy of Civilization (1924)" src="/assets/images/albert_schweitzer_philosophy_of_civilization.jpg" class="alignleft" />
 > We are living today under the sign of the collapse of civilization. The situation has not been produced by the war; the latter is only a manifestation of it. The spiritual atmosphere has solidified into actual facts, which again react on it with disastrous results in every respect. . . . It is clear now to everyone that the suicide of civilization is in progress. What yet remains of it is no longer safe. It is still standing, indeed, because it was not exposed to the destructive pressure which overwhelmed the rest, but, like the rest, it is built upon rubble, and the next landslide will very likely carry it away.
 
 Wow... It is fascinating to look back and learn about how society viewed itself and the world. It was 1923 when he published this book, between both world wars, which gives you an idea where he's coming from. There seemed to be an obsession in the air for progress, for achievement. Imperialism, the white man's burden, over industrialization, survival of the fittest, social utilitarianism, social Darwinism, human zoos. The ideals and ideas seemed to trump the value of life. Schweitzer is attempting to grapple with and reflect on the state of society. What led it here? What can we learn from history? What does true civilization look like? Is there a way out? 
