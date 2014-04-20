@@ -1,7 +1,11 @@
 url: http://brentwejrowski.com
 name: brentwejrowski.com
 author: Brent Wejrowski
-markdown: redcarpet
+# markdown: redcarpet
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+
 pygments: true
 
 source: source
