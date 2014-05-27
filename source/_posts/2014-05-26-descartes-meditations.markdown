@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Descartes - Meditations"
-date:   2014-05-10 13:51:22
+date:   2014-05-26 23:02:44
 tags:
   - Descartes
   - Philosophy
