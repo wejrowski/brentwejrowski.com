@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Philosophy of Civilization: Pt 4, Hindrances on Society"
+date:   2014-08-18-22:37:00
+tags:
+  - Albert Schweitzer
+  - Philosophy
+---
+
+Long awaited continuation here as I was out of town for a while. I wanted to continue where I left off with Schweitzer's philosophy of civilization.
+
+One of my favorite things about the book is how connected he shows philosophy to be with society, which was a major part of what he was trying to do. And it really is amazing to see how much of society and revolutions and all sorts of things (not to mention the words we use and the ways we think about thinks on a daily basis) were very much shaped by and perhaps out of philosophy. Not that they came directly from it, but how philosophy often shapes the way we look at the world, our sort of frame of reference—whether we like it and want to admit it or not.
+
+As a quote I recently heard from John Keynes goes:
+
+> The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood. Indeed the world is ruled by little else. Practical men, who believe themselves to be quite exempt from any intellectual influence, are usually the slaves of some defunct economist. Madmen in authority, who hear voices in the air, are distilling their frenzy from some academic scribbler of a few years back. I am sure that the power of vested interests is vastly exaggerated compared with the gradual encroachment of ideas.
+> 
+> John Maynard Keynes // The General Theory of Employment, Interest, and Money
+
+Yikes. Okay.. so the previous post I attempted to give a sort of overview of some of the movements in philosophy and ethics Schweitzer talks about. Here I want to share a few snippets from the book on how he characterizes society at the time, or you could say the effects of the ideas of the time. He was in and saw his time as at a cusp, as it literally was, of some horrific things, and so he's speaking to a different time. But I don't think you have to reach very far to see some of these same mentalities and even effects going on today. We prize so many of these characteristics which, though they do bring us so many amazing technologies, perhaps they also bring something else.
+
+> [T]hrough our methods of work we have suffered loss spiritually and as individuals just in proportion as the material output of our collective activity has increased. Here, too, is an illustration of that tragic law which says that every gain brings with it, somehow or other, a corresponding loss. (p. 14)
+
+### Individuals Overworked
+
+> To the want of freedom we have to add the evil of overstrain. For two or three generations numbers of individuals have been living as workers merely, not as human beings. Whatever can be said in a general way about the moral and spiritual significance of labour has no bearing on what they have to do. An excessive amount of labour is the rule today in every circle of society, with the result that the labourer's spiritual element cannot possibly thrive. This overwork his him indirectly even in his childhood, for his parents, caught in the inexorable toils of work, cannot devote themselves to his up-bringing as they should. Thus his development is robbed of something which can never be made good, and later in life, when he himself is the slave of over-long hours, he feels more and more the need of external distractions. To spend the time left to him for leisure in self-cultivation, or in serious intercourse with his fellows or with books, requires a mental collectedness and self-control which he finds every difficult. Complete idleness, forgetfulness, and diversion from his usual activities are a physical necessity. He does not want to think, and seeks not self-improvement, but entertainment, that kind of entertainment, moreover, which makes least demand upon his spiritual faculties.
+> 
+> The mentality of this mass of individuals, spiritually relaxed and incapable of self-collectedness, reacts upon all those institutions which ought to serve the cause of culture, and therewith of civilization. The theatre takes a second place behind the pleasure resort or the picture show, and the instructive book behind the diverting one. An ever increasing proportion of periodicals and newspapers have to accommodate themselves to the necessity of putting their matter before their readers in the shape which lets it be assimilated most easily. A comparison of the average newspapers of today with those of fifty or sixty years ago shows how thoroughly such publications have had to change their methods in this respect.
+> 
+> When once the spirit of superficiality has penetrated into the institutions which ought to sustain the spiritual life, these exercise on their part a reflex influence on the society which they have brought to this conditions, and force on all alike this state of mentality vacuity. 
+>
+> How completely this want of thinking power has become a second nature in men today is shown by the kind of sociability which it produces. When two of them meet for a conversation each is careful not to see that their talk does not go beyond generalities or develop into a real exchange of ideas. No one has anything of his own to give out, and everyone is haunted by a sort of terror lest anything original should be demanded from him. 
+> 
+> The spirit produced in such a society of never-concentrated minds is rising among us as an ever growing force, and it results in a lowered conception of what man should be. In ourselves, as in others, we look for nothing but vigour in productive work, and resign ourselves to the abandonment of any higher ideal. (p. 11)
+
+### Over Specialization
+
+> The artisan of to-day does not understand his trade as a whole in the way in which his predecessor did. He no longer learns like the latter, to work the wood or the metal through all the stages of manufacture. . . Consequently his reflectiveness, his imagination, and his skill are no longer called out by ever varying difficulties in the work, and his creative and artistic powers are atrophied. In place of the normal self-consciousness which is promoted by work into the doing of which he must put his whole power of thought and his whole personality, there comes a self-satisfaction which is content with a fragmentary ability which, it may be admitted, is perfect, and this self-satisfaction is persuaded by its perfection in mastering details to overlook its imperfection in dealing with the whole.
+>
+> Because in the complicated business world of today only undertakings with abundant capital behind them can maintain their existence, the place of the small, independent dealer is being taken more and more completely by the employee. . . .
+> The lack of freedom which results is made worse still because the factory system creates continually growing agglomerations of people who are thereby compulsorily separated from the soil which feeds them, from their own homes and from nature. Hence comes serious psychical injury. There is only too much truth in the paradoxical saying that abnormal life begins with the loss of one's own field and dwelling place. (p. 10)
+
+### Over-organization
+
+> The most widespread danger which material achievements bring with them for civilization consists in the fact that through the revolutions in the conditions of life men become in greater numbers unfree, instead of free. The type of man who once cultivated his own bit of land becomes a worker who tends a machine in a factory; manual workers and independent tradespeople become employees. They lose the elementary freedom of the man who lives in his own house and finds himself in immediate connection with Mother Earth. Further, they no longer have the extensive and unbroken consciousness of responsibility of those who live by their own independent labour. The conditions of their existence are therefore unnatural....
+>
+> To a certain extent we have all of us, under modern conditions, become unfree men. In every rank of life we have from decade to decade, if not from year to year, to carry on a harder struggle for existence. Overwork, physical or mental or both, is our lot. We can no longer find time to collect and order our thoughts. Our spiritual dependence increases at the same rate as our material dependence. In every direction we are the victims of conditions of dependence which in former times were never known in such universality and such strength. Economic, social, and political organizations, which are steadily becoming more and more complete, are getting us more and more into their power. The State with its increasingly rigid organization holds us under a control which is growing more and more decisive and inclusive. In every respect, therefore, our individual existence is depreciated. It is becoming ever more difficult to be a personality. (pp. 87-88)
+
+I picked out here just a few, of the many, points he makes about what was happening in society. All of which were connected with his point that philosophy was changing and shaping the way people thought and lived. People seemed to be becoming less people and more instruments, whose duty was to build up society, or to produce something. And in his account, no one was really talking about how philosophy was doing this, much less what philosophy, or western philosophy, was even aiming for, or what civilization is and should be. He describes philosophy as having become empty, mechanistic, losing spirit and conviction, being infatuated in its achievements, and in facts, and less with fundamental questions. Questions of humanity and meaning were left only to some obscure corner, and the spirit and creativity that once was in philosophy and in education was missing. And this was bleeding over into all sorts of areas.
