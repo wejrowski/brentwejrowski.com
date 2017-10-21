@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Stamped from the Beginning - Christopher Columbus"
+date:   2017-08-22-12:00:00
+tags:
+  - Books
+---
+Christopher Columbus—if you've read Howard Zinn's A People's History of the United States, the first pages give you an insight into Columbus' eye for a profit and gold, his eagerness to take advantage of the generosity of the native americans, enslave them, kill them, and take whatever he could back with him. Columbus came financed by Spain, and his mission was to find riches.  Columbus' writings from Zinn:
+
+> They... bought us parrots and balls of cotton and spears and many other things, which they exchanged for the glass beads and hawks' bells. They willingly traded eveything they owned.... They do not bear arms, and do not know them.... They would make fine servants.... With fifty men we could subjugate them all and make them do whatever we want.
+> As soon as I arrived in the Indies, on the first Island which I found, I took some of the natives by force in order that they might learn and might give me information of whatever there is in these parts. 
+
+Ibram Kendi, in Stamped from the Beginning, adds a lot of context the story of Columbus. Trade was changing, and new justifications for slavery were being made.  Portugal was the first to bring slaves up from Africa in the mid 1400s. At the time, Portugal's Prince Henry would say it was ministry that called him to bring people up from Africa. He was to to tame the supposed wild beasts and show them salvation (as well as sell them). It was a religious service he was offering. And it just happened to be that he made more profit from slave trading than he did from gathering taxes. To justify his noble deeds, a manuscript was commissioned to be written by a man named Gomes Eanes de Zurara. The book he wrote was well circulated, likely read by Columbus, and it reminded readers, as Kendi says, that prince Henry's main riches was really the pleasure of saving their souls, and taming their wild nature. Columbus at the time was looking to find his own trading goldmine and look to establish routes to find spices in the east. He went to Portugal to get funding for the trip but was denied so he went to Spain, who funded him with the expectation of a large investment return. And so when he happens to land on this foreign land to find not only generous people, but people willing to give and show him gold, he found his riches. Feeling the pressure, he brings back not only gold but human beings, following the lead of Prince Henry. 
+
+Slavery—it's any means necessary to find some sort of profit. The motive is money and power, and the means, violence—violence which, at the time, was justified by whatever convinced. They were beasts, they needed to be saved, they needed to be civilized, made white. That was the narrative circulated to justify the horrifying profits made. Policies, as Kendi says, encouraged the narrative and the ignorance. I'm not convinced that we don't do quite a similar things today. Life is neglected at so many levels and justified, swept under the rug, or given a story that makes it more palatable. Every once and a while the rug is lifted and we take a peek, although most of us aren't willing to look very long.
+
